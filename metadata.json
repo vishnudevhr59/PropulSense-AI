@@ -1,0 +1,6 @@
+{
+  "name": "PropulSense AI",
+  "description": "Spacecraft Propulsion & Transducer Telemetry Diagnostics for satellite AOCS monopropellant thrusters and Liquid Apogee Motors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
